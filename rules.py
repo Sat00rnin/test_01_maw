@@ -1,1 +1,1 @@
-print ("Geoinformatyka, Meteorologia, Rozpoznanie rządzi")
+print ("Geoinformatyka, Meteorologia, Rozpoznanie rządzi!!!")
